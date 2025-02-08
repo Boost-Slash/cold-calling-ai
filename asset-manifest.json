@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/cold-calling-ai/static/js/app.876b2f29.chunk.js",
+    "app.js.map": "/cold-calling-ai/static/js/app.876b2f29.chunk.js.map",
+    "runtime~app.js": "/cold-calling-ai/static/js/runtime~app.b5d8f049.js",
+    "runtime~app.js.map": "/cold-calling-ai/static/js/runtime~app.b5d8f049.js.map",
+    "static/js/2.bbbb9656.chunk.js": "/cold-calling-ai/static/js/2.bbbb9656.chunk.js",
+    "static/js/2.bbbb9656.chunk.js.map": "/cold-calling-ai/static/js/2.bbbb9656.chunk.js.map",
+    "static/js/3.ca9f597c.chunk.js": "/cold-calling-ai/static/js/3.ca9f597c.chunk.js",
+    "static/js/3.ca9f597c.chunk.js.map": "/cold-calling-ai/static/js/3.ca9f597c.chunk.js.map",
+    "fonts/MaterialCommunityIcons.ttf": "/cold-calling-ai/fonts/MaterialCommunityIcons.ttf",
+    "index.html": "/cold-calling-ai/index.html",
+    "manifest.json": "/cold-calling-ai/manifest.json",
+    "serve.json": "/cold-calling-ai/serve.json",
+    "static/js/2.bbbb9656.chunk.js.LICENSE.txt": "/cold-calling-ai/static/js/2.bbbb9656.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.b5d8f049.js",
+    "static/js/2.bbbb9656.chunk.js",
+    "static/js/app.876b2f29.chunk.js"
+  ]
+}
